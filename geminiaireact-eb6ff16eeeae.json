@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "geminiaireact",
+  "private_key_id": "eb6ff16eeeaec451330b93480d2acdd5bd146b58",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2C/a40PWF9Uad\n+2HRdHDd0PkZnRdR7KmSgsInL0OjEddVGXAHiwl8U6Hm6ZWDZTB6p/+49OQrMkcI\npSIofyPdoCTamkojLDCoXhf9vdjfyTkuaRU6kl2R/cf3I1oa6FPUhD6n8fkFIf97\nd7QEgAZABFA0Q1qvOWv+XBMEXfqEHtdB/ztXgH5967YDC/RlEL665ziLFOzXYdCR\n5wzqbj5js/0cwGPfF+FdX/KpQQDWtl4EcpkQJTX4sAb7AmQvBR3NQaVn840fmLN4\ns46vQwubUxgftRQBTDnMsfIqGfGE52ZVnmRVxC1fN8K40f5oJOTW+vRok0G/k8XQ\nzx3WTKS9AgMBAAECggEAAno1M8E8OGibqLHdN6F8K7iYuzjuMnR/mtT0a7mFE/ji\nU3AAd9wYqaoKRGznVq/9aMJ5X/zWT8Z2Yd0FbmiCPSe4nT4Zs+UeMq6mRBMCUYp0\nMuXqVZ0BJ4xz3TCw+DfqBmuhJzldnyywRKaVqLTgKgqSsyEW8vs27E0TnJqaOpQI\nFe8449Jsvy8d1ExdxvNj8uUx/UWe64Jk7ILsmyQL/vtjLHPLyIyuurBdfG3WuIdq\nD/cXHiBNNxsxXoHAuSbHbq1W9/gTeny7jWNQLxc5Oc2VE7WQweoPxtbM1EqwnkcK\n68znW0mpkfHihdtg9rhUtWWbVG+RgL3aSCANvEaOTQKBgQD1A4W9YATp3fV07YSX\nd7k7zwL8moymGUdnFL8CHrZl1KK3gZlMTDTNRPMgAkQsYV63CTNT5KAL4hiO0L8Z\nWWqaLnmpz+mms29PmiVke5gVmbfzcCYaXPqHUbgtcHqxuyrdcVRIdizipn7ykVqH\nKjIt+fjgbdyY4PHQuRPkozPptwKBgQC+NablH/z++8W9ioDnRalY2XBC8MRq/tfm\nLIqWMn8i73HBU3Epw2LlXXOz3/mBpNRYeBt9Prau/pFtlvm+YCQ1X34Rm4LnNDXD\nNuuzATIREANfsQ4qIx7QxXDc5Gf/vwIbFPkJPiUsFHHSEtPx0kOT9qDZc6DSMljB\nTv454lq1KwKBgAYVJ03TQ2v26bAUcXU9MKkOc5mH0LQS7pXdivxnfMm8ZKm/mums\n/qaV7p89zyl25V4P6WlMxLhmzYtGHWhost/PBZA0rC1KSRolzoXXF6h5n3p4r0l6\nQ3H2kmb2YuVkqyTCOoBuBqE91ur4ttGiN4qyqP4RXCejdf1jit3jO1ezAoGAL38c\nPsi/FzjthsgIKjgV8o7RXpXaplEevmZO8PSJFMMv57ObZW9ZyaaNVtRN7JapQ7Iy\nQxMe8RG2ZOQ3VteRExbWVzU6+drqteWH87oPs30JKqL+w3zjnARBi5cpdQ5QS0zw\nZuNyytAMIAX9kLwNjewe/E3IUdSqnxLHntKsDeMCgYEAmU8/wteIpXYq1xnkaxT4\n6SHfkL84GxG+BpetTbrajoEfWyMNgdxmbDB7anj+OYm5fw6Ruk7fQozqwO/cwAbn\nVq0kNJFasSelSF88ruehD/5eoFDxgSCU5SnVhQbM/bvDDZX1bxDLWlU76bduNkup\nHxyhQyowv+uFpoFvjqtvh/k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vertex-ai-service-account@geminiaireact.iam.gserviceaccount.com",
+  "client_id": "101108369645301518500",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vertex-ai-service-account%40geminiaireact.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
