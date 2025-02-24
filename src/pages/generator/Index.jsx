@@ -1,12 +1,9 @@
 import React, { useState } from "react";
 import { Box, Button, TextField } from "@mui/material";
 import { GoogleGenerativeAI } from "@google/generative-ai";
-import ChatUser from "../../components/ChatUser";
-import ChatResponse from "../../components/ChatResponse";
 import Layouts from "../layouts/Main";
 
-
-export default function ChatIndex() {
+export default function GeneratorIndex() {
     const [text, setText] = useState("");
     const [error, setError] = useState([]);
     const [chat, setChat] = useState([]);
@@ -54,7 +51,7 @@ export default function ChatIndex() {
     return (
         <>
             <Layouts loading={loading}>
-                <h1>Gemini AI CHAT</h1>
+                <h1>Gemini AI Image Generator</h1>
                 <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', width: '100%', marginTop:'20px' }}>
                     <TextField
                         id="chat-input"
@@ -73,17 +70,6 @@ export default function ChatIndex() {
                         </Button>
                 </Box>  
                 {/* Chat Response */}
-                <Box sx={{ marginTop: '20px', width: '100%', overflowY: 'auto', maxHeight: '450px' }}>
-                    {
-                        chat.map((ch, index) => (
-                            ch.type === 0 ? (
-                                <ChatUser response={ch.res} key={index} />
-                            ) : (
-                                <ChatResponse response={ch.res} key={index} />
-                            )
-                        ))
-                    }
-                </Box>
                 
             </Layouts>
         </>
